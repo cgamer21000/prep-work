@@ -170,7 +170,6 @@ Fill in the blanks and mark off these as you do them by adding an
 
   * To make a screenshot of a region on Mac press ______.
   * To make animated GIFs on Mac use ______.
-  * To make an animated GIF on Mac use ______.
 
 - [ ] **Show**: Drag a File into a Repo
 
