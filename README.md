@@ -19,9 +19,8 @@ Fill in the blanks and mark off these as you do them by adding an
   * The most important skill of a developer is ______.
   * I agree to ______.
 
-3. - [ ] **Join**: Mailing List
+3. - [ ] **Confirm**: Mailing List Subscription
 
-  * I have ______ myself and my parents to ______.
   * Emails from the mailing list come to the ______ folder.
   * SkilStak newsletters are sent every ______.
 
