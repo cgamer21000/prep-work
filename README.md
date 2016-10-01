@@ -43,7 +43,7 @@ Fill in the blanks and mark off these as you do them by adding an
   * Everyone starts SkilStak™ in ______.
   * To get into the *Project* course I have to ______.
   * To get into *Pro* I have to ______.
-  * ______ is good socialization practice.
+  * When can you socialize? ______ 
   * True or false, Yoga is a technical skill: ______
   * YouTube and blogging are taught in ______.
   * In which course could I learn Swift programming? ______
@@ -52,7 +52,7 @@ Fill in the blanks and mark off these as you do them by adding an
 8. - [ ] **Pick**: Technology Path
 
   * ______ leads to *Engineering* and *Linux* focus categories.
-  * ______ leads to *Web* and *Apps* focus categories.
+  * ______ leads to *Game* and *Apps* focus categories.
   * ______ lead to *Data* and *Languages* focus categories.
   * I declare my technology path to be ______.
 
