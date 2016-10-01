@@ -19,25 +19,34 @@ Fill in the blanks and mark off these as you do them by adding an
   * The most important skill of a developer is ______.
   * I agree to ______.
 
-3. - [ ] **Confirm**: Mailing List Subscription
+3. - [ ] **Know**: Your Web Sites
+
+  * My location name is ______.
+  * The web site for my *location* is ______.
+  * The web site for SkilStak™ is ______.
+  * I can lookup shortcuts from ______.
+  * My personal web site address is ______.
+
+
+4. - [ ] **Confirm**: Mailing List Subscription
 
   * Emails from the mailing list come to the ______ folder.
   * SkilStak newsletters are sent every ______.
 
-4. - [ ] **Complete**: Markdown Tutorial
+5. - [ ] **Complete**: Markdown Tutorial
 
   * I have ______ the markdown tutorial.
 
-5. - [ ] **Attain**: 24 WPM on TypingTest.com
+6. - [ ] **Attain**: 24 WPM on TypingTest.com
 
   * The second most important skill of a developer is ______.
   * I type ______ words per minute.
 
-6. - [ ] **Show**: How to Use Chrome Incognito
+7. - [ ] **Show**: How to Use Chrome Incognito
 
   * You should always use Incognito because ______.
 
-7. - [ ] **Explain**: Core Offerings
+8. - [ ] **Explain**: Core Offerings
 
   * Everyone starts SkilStak™ in ______.
   * To get into the *Project* course I have to ______.
@@ -48,66 +57,58 @@ Fill in the blanks and mark off these as you do them by adding an
   * In which course could I learn Swift programming? ______
   * I understand ______ offerings.
 
-8. - [ ] **Pick**: Technology Path
+9. - [ ] **Pick**: Technology Path
 
   * ______ leads to *Engineering* and *Linux* focus categories.
   * ______ leads to *Game* and *Apps* focus categories.
   * ______ lead to *Data* and *Languages* focus categories.
   * I declare my technology path to be ______.
 
-9. - [ ] **Join**: Slack Chat Room
+10. - [ ] **Join**: Slack Chat Room
 
   * My Slack chat room web address is ______.
   * I will check ______ at least ______.
 
-10. - [ ] **Create**: GitHub.com Account
+11. - [ ] **Create**: GitHub.com Account
 
   * My GitHub account is ______.
   * True or false, I can change my GitHub name anytime? ______.
   * My account name does not have ______ in it.
 
-11. - [ ] **Edit**: File with GitHub
+12. - [ ] **Edit**: File with GitHub
 
   * I created the ______ file into this work repo with the editor
 
-12. - [ ] **Create**: Individual Development Plan
+13. - [ ] **Create**: Individual Development Plan
 
   * I have completed by ______.
   * The most important quality of a good goal to me is ______.
 
-13. - [ ] **Create**: First Github Issue
+14. - [ ] **Create**: First Github Issue
 
   * The name of my issue on this repo is ______.
   * Issues are a great way to ______.
 
-14. - [ ] **Create**: Custom Issue Label
+15. - [ ] **Create**: Custom Issue Label
 
   * Custom labels are good because ______.
   * I created custom labels called ______, ______, ______.
 
-15. - [ ] **Sign**: Student Pledge
+16. - [ ] **Sign**: Student Pledge
 
   * I solemnly swear to ______.
   * If I break the pledge I can get a ______.
 
-16. - [ ] **Create**: First Web Site
+17. - [ ] **Create**: First Web Site
 
   * The URL to my first web site is ______.
 
-17. - [ ] **Create**: CodeCombat.com Account(s)
+18. - [ ] **Create**: CodeCombat.com Account(s)
 
   * The email for Python is ______.
   * The email for JavaScript is ______.
   * I need to get into the ______ to move out of Prep.
   * I need to get into the ______ to apply for *Certification*.
-
-18. - [ ] **Know**: Your Web Sites
-
-  * My location name is ______.
-  * The web site for my *location* is ______.
-  * The web site for SkilStak™ is ______.
-  * I can lookup shortcuts from ______.
-  * My personal web site address is ______.
 
 19. - [ ] **Remember**: Passwords!
 
