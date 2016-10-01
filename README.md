@@ -122,9 +122,9 @@ Fill in the blanks and mark off these as you do them by adding an
   * The email for my location is ______.
   * The street address for my location is ______.
   * The main SkilStak™ phone is ______.
-  * My contact phone is ______ (not my own).
-  * My contact email is ______ (not my own).
-  * If I have an emergency I should ______.
+  * My emergency contact phone is ______ (not my own).
+  * My emergency contact email is ______ (not my own).
+  * If I have an emergency and need to contact you I should ______.
   * If I want to schedule a makeup I should ______.
   * If I have a question about codecombat I should ______.
   * True or false, when I can’t come my parents should email?  ______.
