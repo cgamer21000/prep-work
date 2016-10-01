@@ -8,7 +8,7 @@ instructor can communicate about it.
 Fill in the blanks and mark off these as you do them by adding an
 `x` between the brackets:
 
-- [ ] **Create**: Gmail.com Address
+1. - [ ] **Create**: Gmail.com Address
 
   * My Gmail address is ______.
   * My most important password of all is my ______ password.
