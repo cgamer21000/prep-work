@@ -69,7 +69,6 @@ Fill in the blanks and mark off these as you do them by adding an
 11. - [ ] **Edit**: File with GitHub
 
   * I created the ______ file into this work repo with the editor
-  * I uploaded the ______ file into the work editor
 
 12. - [ ] **Create**: Individual Development Plan
 
