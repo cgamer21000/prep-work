@@ -125,7 +125,7 @@ Fill in the blanks and mark off these as you do them by adding an
   * The street address for my location is ______.
   * The main SkilStak™ phone is ______.
   * The phone of my emergency contact is ______.
-  * The email of my emergency contact email is ______.
+  * The email of my emergency contact is ______.
   * If I have an emergency and need to contact you I should ______.
   * If I want to schedule a makeup I should ______.
   * If I have a question about codecombat I should ______.
