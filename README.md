@@ -28,7 +28,6 @@ Fill in the blanks and mark off these as you do them by adding an
   * My Slack chat room web address is ______.
   * I will check ______ at least ______.
 
-
 4. - [ ] **Know**: Your Web Sites
 
   * My location name is ______.
@@ -140,7 +139,6 @@ Fill in the blanks and mark off these as you do them by adding an
   * Officially there are no ______.
   * My Mom and Dad can watch a class if ______.
   * If I refer a friend I get ______% off next semester’s cost.
-  * I can get ______% off next semester for referring a friend.
   * I can get a strike for ______, ______, ______, or more.
   * True of false, SkilStak™ can stop me from coming to any SkilStak™
     for any reason they deem necessary without a refund.  ______
