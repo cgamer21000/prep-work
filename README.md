@@ -16,7 +16,7 @@ Fill in the blanks and mark off these as you do them by adding an
 
   * My Gmail address is ______.
   * My most important password of all is my ______ password.
-  * I made sure to set my ______.
+  * In case I forget I made sure to set my ______ option(s).
 
 2. - [ ] **Agree: Read, A Lot**
 
@@ -34,8 +34,6 @@ Fill in the blanks and mark off these as you do them by adding an
   * The web site for my *location* is ______.
   * The web site for SkilStak™ is ______.
   * I can lookup shortcuts from ______.
-  * My personal web site address is ______.
-
 
 5. - [ ] **Confirm: Mailing List Subscription**
 
@@ -126,8 +124,8 @@ Fill in the blanks and mark off these as you do them by adding an
   * The email for my location is ______.
   * The street address for my location is ______.
   * The main SkilStak™ phone is ______.
-  * My emergency contact phone is ______ (not my own).
-  * My emergency contact email is ______ (not my own).
+  * The phone of my emergency contact is ______.
+  * The email of my emergency contact email is ______.
   * If I have an emergency and need to contact you I should ______.
   * If I want to schedule a makeup I should ______.
   * If I have a question about codecombat I should ______.
@@ -165,18 +163,19 @@ Fill in the blanks and mark off these as you do them by adding an
 
 25. - [ ] **Explain: Which computer should I get?**
 
-  * Microsoft lacks a ______.
+  * Linux/Mac have had ______ for more than decade. Microsoft has not.
   * Apple became preferred by developers when ______.
   * Linux is based on ______.
 
 26. - [ ] **Show: Screenshot**
 
   * To make a screenshot of a region on Mac press ______.
+  * To make a screenshot on Windows press ______.
   * To make animated GIFs on Mac use ______.
 
 27. - [ ] **Show: Drag a File into a Repo**
 
-  * I uploaded ______ to this repo using drag-n-drop.
+  * I uploaded the file named ______ to this repo using drag-n-drop.
 
 28. - [ ] **Show: Login with Mac Terminal**
 
