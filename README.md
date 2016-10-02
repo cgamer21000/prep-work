@@ -23,7 +23,13 @@ Fill in the blanks and mark off these as you do them by adding an
   * The most important skill of a developer is ______.
   * I agree to ______.
 
-3. - [ ] **Know**: Your Web Sites
+3. - [ ] **Join**: Slack Chat Room
+
+  * My Slack chat room web address is ______.
+  * I will check ______ at least ______.
+
+
+4. - [ ] **Know**: Your Web Sites
 
   * My location name is ______.
   * The web site for my *location* is ______.
@@ -32,25 +38,25 @@ Fill in the blanks and mark off these as you do them by adding an
   * My personal web site address is ______.
 
 
-4. - [ ] **Confirm**: Mailing List Subscription
+5. - [ ] **Confirm**: Mailing List Subscription
 
   * Emails from the mailing list come to the ______ folder.
   * SkilStak newsletters are sent every ______.
 
-5. - [ ] **Complete**: Markdown Tutorial
+6. - [ ] **Complete**: Markdown Tutorial
 
   * I have ______ the markdown tutorial.
 
-6. - [ ] **Attain**: 24 WPM on TypingTest.com
+7. - [ ] **Attain**: 24 WPM on TypingTest.com
 
   * The second most important skill of a developer is ______.
   * I type ______ words per minute.
 
-7. - [ ] **Show**: How to Use Chrome Incognito
+8. - [ ] **Show**: How to Use Chrome Incognito
 
   * You should always use Incognito because ______.
 
-8. - [ ] **Explain**: Core Offerings
+9. - [ ] **Explain**: Core Offerings
 
   * Everyone starts SkilStak™ in ______.
   * To get into the *Project* course I have to ______.
@@ -61,17 +67,12 @@ Fill in the blanks and mark off these as you do them by adding an
   * In which course could I learn Swift programming? ______
   * I understand ______ offerings.
 
-9. - [ ] **Pick**: Technology Path
+10. - [ ] **Pick**: Technology Path
 
   * ______ leads to *Engineering* and *Linux* focus categories.
   * ______ leads to *Game* and *Apps* focus categories.
   * ______ lead to *Data* and *Languages* focus categories.
   * I declare my technology path to be ______.
-
-10. - [ ] **Join**: Slack Chat Room
-
-  * My Slack chat room web address is ______.
-  * I will check ______ at least ______.
 
 11. - [ ] **Create**: GitHub.com Account
 
