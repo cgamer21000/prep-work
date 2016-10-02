@@ -38,7 +38,6 @@ Fill in the blanks and mark off these as you do them by adding an
 5. - [ ] **Confirm: Mailing List Subscription**
 
   * Emails from the mailing list come to the ______ folder.
-  * SkilStak newsletters are sent every ______.
 
 6. - [ ] **Complete: Markdown Tutorial**
 
@@ -131,6 +130,7 @@ Fill in the blanks and mark off these as you do them by adding an
   * If I have a question about codecombat I should ______.
   * True or false, when I can’t come my parents should email?  ______.
   * The best place to find videos and photos of my location is ______.
+  * SkilStak newsletters are sent every ______.
   
 21. - [ ] **Explain: Policies**
 
