@@ -1,7 +1,11 @@
-# [Preparing for Fundamentals](http://prep.skilstak.io)
+# [Preparing for Fundamentals (Work)](http://prep.skilstak.io)
 
-This private repo is where you do your work and you and your
-instructor can communicate about it.
+This repo is where you do your work and you can communicate about it
+by opening [issues][] just like you would to work on a professional
+project. Clicking on the title will always take you to the textbook
+repo.
+
+[issues]: https://github.com/skilstak/pyfun-work/issues
 
 ## Prep Skills
 
