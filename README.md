@@ -200,7 +200,7 @@ Fill in the blanks and mark off these as you do them by adding an
 
   * Programming came from  ______.
   * `x = 2y + 3` is an example of ______.
-  * In programming `x` is ______ and `y` is ______.
+  * When programming on most game grids `x` is ______ and `y` is ______.
 
 32. - [ ] **Attain: Forest in CodeCombat.com**
 
