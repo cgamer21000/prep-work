@@ -24,6 +24,7 @@ Fill in the blanks and mark off these as you do them by adding an
 3. - [ ] **Confirm: Mailing List Subscription**
 
   * Emails from the mailing list come to the ______ folder.
+  * My emergency contact ______ is subscribed to the mailing list.
 
 4. - [ ] **Create: Gmail.com Address**
 
@@ -36,7 +37,6 @@ Fill in the blanks and mark off these as you do them by adding an
   * My GitHub account is ______.
   * True or false, I can change my GitHub name anytime? ______.
   * My account name does not have ______ in it.
-
 
 6. - [ ] **Join: Slack Chat Room**
 
@@ -51,8 +51,10 @@ Fill in the blanks and mark off these as you do them by adding an
   * When can you socialize? ______ 
   * True or false, Yoga is a technical skill: ______
   * YouTube and blogging are taught in ______.
-  * In which course could I learn Swift programming? ______
-  * I understand ______ offerings.
+  * In which course could I learn Swift programming? ______.
+  * The mission of ______ is exploration and specialization.
+  * The difference between Pro and Project is that ______.
+  * Proficiency is learned in ______.
 
 8. - [ ] **Pick: Technology Path**
 
@@ -66,7 +68,6 @@ Fill in the blanks and mark off these as you do them by adding an
   * The email for Python is ______.
   * The email for JavaScript is ______.
   * I need to get into the ______ to move out of Prep.
-  * I need to get into the ______ to apply for *Certification*.
 
 10. - [ ] **Remember: Passwords!**
 
@@ -119,8 +120,8 @@ Fill in the blanks and mark off these as you do them by adding an
 
 16. - [ ] **Create: Individual Development Plan**
 
-  * I have completed by ______.
-  * The most important quality of a good goal to me is ______.
+  * I have completed my ______.
+  * One important quality of a good goal is ______.
 
 17. - [ ] **Show: Screenshot**
 
