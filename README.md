@@ -31,12 +31,19 @@ Fill in the blanks and mark off these as you do them by adding an
   * My most important password of all is my ______ password.
   * In case I forget I made sure to set my ______ option(s).
 
-5. - [ ] **Join: Slack Chat Room**
+5. - [ ] **Create: GitHub.com Account**
+
+  * My GitHub account is ______.
+  * True or false, I can change my GitHub name anytime? ______.
+  * My account name does not have ______ in it.
+
+
+6. - [ ] **Join: Slack Chat Room**
 
   * My Slack chat room web address is ______.
   * I will check ______ at least ______.
 
-6. - [ ] **Explain: Core Offerings**
+7. - [ ] **Explain: Core Offerings**
 
   * Everyone starts SkilStak™ in ______.
   * To get into the *Project* course I have to ______.
@@ -47,25 +54,19 @@ Fill in the blanks and mark off these as you do them by adding an
   * In which course could I learn Swift programming? ______
   * I understand ______ offerings.
 
-7. - [ ] **Pick: Technology Path**
+8. - [ ] **Pick: Technology Path**
 
   * ______ leads to *Engineering* and *Linux* focus categories.
   * ______ leads to *Game* and *Apps* focus categories.
   * ______ lead to *Data* and *Languages* focus categories.
   * I declare my technology path to be ______.
 
-8. - [ ] **Create: CodeCombat.com Account(s)**
+9. - [ ] **Create: CodeCombat.com Account(s)**
 
   * The email for Python is ______.
   * The email for JavaScript is ______.
   * I need to get into the ______ to move out of Prep.
   * I need to get into the ______ to apply for *Certification*.
-
-9. - [ ] **Create: GitHub.com Account**
-
-  * My GitHub account is ______.
-  * True or false, I can change my GitHub name anytime? ______.
-  * My account name does not have ______ in it.
 
 10. - [ ] **Remember: Passwords!**
 
