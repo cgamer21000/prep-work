@@ -165,7 +165,7 @@ Fill in the blanks and mark off these as you do them by adding an
 
   * Linux/Mac have had ______ for more than decade. Microsoft has not.
   * Apple became preferred by developers when ______.
-  * Linux is based on ______.
+  * Linux has the same feel and commands as ______.
 
 26. - [ ] **Show: Screenshot**
 
