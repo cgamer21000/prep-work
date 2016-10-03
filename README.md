@@ -12,47 +12,31 @@ repo.
 Fill in the blanks and mark off these as you do them by adding an
 `x` between the brackets:
 
-1. - [ ] **Create: Gmail.com Address**
+1. - [ ] **Agree: Read, A Lot**
+
+  * The most important skill of a developer is ______.
+  * I agree to ______.
+
+2. - [ ] **Show: How to Use Chrome Incognito**
+
+  * You should always use Incognito because ______.
+
+3. - [ ] **Confirm: Mailing List Subscription**
+
+  * Emails from the mailing list come to the ______ folder.
+
+4. - [ ] **Create: Gmail.com Address**
 
   * My Gmail address is ______.
   * My most important password of all is my ______ password.
   * In case I forget I made sure to set my ______ option(s).
 
-2. - [ ] **Agree: Read, A Lot**
-
-  * The most important skill of a developer is ______.
-  * I agree to ______.
-
-3. - [ ] **Join: Slack Chat Room**
+5. - [ ] **Join: Slack Chat Room**
 
   * My Slack chat room web address is ______.
   * I will check ______ at least ______.
 
-4. - [ ] **Know: Your Web Sites**
-
-  * My location name is ______.
-  * The web site for my *location* is ______.
-  * The web site for SkilStak™ is ______.
-  * I can lookup shortcuts from ______.
-
-5. - [ ] **Confirm: Mailing List Subscription**
-
-  * Emails from the mailing list come to the ______ folder.
-
-6. - [ ] **Complete: Markdown Tutorial**
-
-  * I have ______ the markdown tutorial.
-
-7. - [ ] **Attain: 24 WPM on TypingTest.com**
-
-  * The second most important skill of a developer is ______.
-  * I type ______ words per minute.
-
-8. - [ ] **Show: How to Use Chrome Incognito**
-
-  * You should always use Incognito because ______.
-
-9. - [ ] **Explain: Core Offerings**
+6. - [ ] **Explain: Core Offerings**
 
   * Everyone starts SkilStak™ in ______.
   * To get into the *Project* course I have to ______.
@@ -63,61 +47,52 @@ Fill in the blanks and mark off these as you do them by adding an
   * In which course could I learn Swift programming? ______
   * I understand ______ offerings.
 
-10. - [ ] **Pick: Technology Path**
+7. - [ ] **Pick: Technology Path**
 
   * ______ leads to *Engineering* and *Linux* focus categories.
   * ______ leads to *Game* and *Apps* focus categories.
   * ______ lead to *Data* and *Languages* focus categories.
   * I declare my technology path to be ______.
 
-11. - [ ] **Create: GitHub.com Account**
-
-  * My GitHub account is ______.
-  * True or false, I can change my GitHub name anytime? ______.
-  * My account name does not have ______ in it.
-
-12. - [ ] **Edit: File with GitHub**
-
-  * I created the ______ file into this work repo with the editor
-
-13. - [ ] **Create: Individual Development Plan**
-
-  * I have completed by ______.
-  * The most important quality of a good goal to me is ______.
-
-14. - [ ] **Create: First Github Issue**
-
-  * The name of my issue on this repo is ______.
-  * Issues are a great way to ______.
-
-15. - [ ] **Create: Custom Issue Label**
-
-  * Custom labels are good because ______.
-  * I created custom labels called ______, ______, ______.
-
-16. - [ ] **Sign: Student Pledge**
-
-  * I solemnly swear to ______.
-  * If I break the pledge I can get a ______.
-
-17. - [ ] **Create: First Web Site**
-
-  * The URL to my first web site is ______.
-
-18. - [ ] **Create: CodeCombat.com Account(s)**
+8. - [ ] **Create: CodeCombat.com Account(s)**
 
   * The email for Python is ______.
   * The email for JavaScript is ______.
   * I need to get into the ______ to move out of Prep.
   * I need to get into the ______ to apply for *Certification*.
 
-19. - [ ] **Remember: Passwords!**
+9. - [ ] **Create: GitHub.com Account**
+
+  * My GitHub account is ______.
+  * True or false, I can change my GitHub name anytime? ______.
+  * My account name does not have ______ in it.
+
+10. - [ ] **Remember: Passwords!**
 
   * If I keep trying my GitHub password I risk ______.
   * The most important password to remember is ______.
   * My strategy for remember my password is ______.
 
-20. - [ ] **Explain: Communications**
+11. - [ ] **Know: Your Web Sites**
+
+  * My location name is ______.
+  * The web site for my *location* is ______.
+  * The web site for SkilStak™ is ______.
+  * I can lookup shortcuts from ______.
+
+12. - [ ] **Explain: Policies**
+
+  * Officially there are no ______.
+  * My Mom and Dad can watch a class if ______.
+  * If I refer a friend I get ______% off next semester’s cost.
+  * I can get a strike for ______, ______, ______, or more.
+  * True of false, SkilStak™ can stop me from coming to any SkilStak™
+    for any reason they deem necessary without a refund.  ______
+  * The most important factor in learning to code is ______.
+  * I can only make up ______ missed classes in a row.
+  * The minimum number of students to not cancel a course is ______.
+
+13. - [ ] **Explain: Communications**
 
   * The phone number for my location is ______.
   * The email for my location is ______.
@@ -132,23 +107,65 @@ Fill in the blanks and mark off these as you do them by adding an
   * The best place to find videos and photos of my location is ______.
   * SkilStak newsletters are sent every ______.
   
-21. - [ ] **Explain: Policies**
+14. - [ ] **Sign: Student Pledge**
 
-  * Officially there are no ______.
-  * My Mom and Dad can watch a class if ______.
-  * If I refer a friend I get ______% off next semester’s cost.
-  * I can get a strike for ______, ______, ______, or more.
-  * True of false, SkilStak™ can stop me from coming to any SkilStak™
-    for any reason they deem necessary without a refund.  ______
-  * The most important factor in learning to code is ______.
-  * I can only make up ______ missed classes in a row.
-  * The minimum number of students to not cancel a course is ______.
+  * I solemnly swear to ______.
+  * If I break the pledge I can get a ______.
 
-22. - [ ] **Explain: What is just-in-time learning?**
+15. - [ ] **Complete: Markdown Tutorial**
+
+  * I have ______ the markdown tutorial.
+
+--------
+
+16. - [ ] **Create: Individual Development Plan**
+
+  * I have completed by ______.
+  * The most important quality of a good goal to me is ______.
+
+--------
+
+17. - [ ] **Show: Screenshot**
+
+  * To make a screenshot of a region on Mac press ______.
+  * To make a screenshot on Windows press ______.
+  * To make animated GIFs on Mac use ______.
+
+18. - [ ] **Attain: 24 WPM on TypingTest.com**
+
+  * The second most important skill of a developer is ______.
+  * I type ______ words per minute.
+
+
+19. - [ ] **Edit: File with GitHub**
+
+  * I created the ______ file into this work repo with the editor
+
+20. - [ ] **Create: First Github Issue**
+
+  * The name of my issue on this repo is ______.
+  * Issues are a great way to ______.
+
+21. - [ ] **Create: Custom Issue Label**
+
+  * Custom labels are good because ______.
+  * I created custom labels called ______, ______, ______.
+
+22. - [ ] **Create: First Web Site**
+
+  * The URL to my first web site is ______.
+
+23. - [ ] **Show: Drag a File into a Repo**
+
+  * I uploaded the file named ______ to this repo using drag-n-drop.
+
+--------
+
+24. - [ ] **Explain: What is just-in-time learning?**
 
   * Just in time learning is ______.
 
-23. - [ ] **Explain: What is coding?**
+25. - [ ] **Explain: What is coding?**
 
   * Coding is ______.
   * Programming is ______.
@@ -156,26 +173,18 @@ Fill in the blanks and mark off these as you do them by adding an
   * True or False: HTML is a programming language. ______
   * One language with code that is not programming is ______.
 
-24. - [ ] **Explain: What is organic learning?**
+26. - [ ] **Explain: What is organic learning?**
 
   * Organic means ______.
   * Learning should be tailored to fit ______.
 
-25. - [ ] **Explain: Which computer should I get?**
+27. - [ ] **Explain: Which computer should I get?**
 
   * Linux/Mac have had ______ for more than decade. Microsoft has not.
   * Apple became preferred by developers when ______.
   * Linux has the same feel and commands as ______.
 
-26. - [ ] **Show: Screenshot**
-
-  * To make a screenshot of a region on Mac press ______.
-  * To make a screenshot on Windows press ______.
-  * To make animated GIFs on Mac use ______.
-
-27. - [ ] **Show: Drag a File into a Repo**
-
-  * I uploaded the file named ______ to this repo using drag-n-drop.
+--------
 
 28. - [ ] **Show: Login with Mac Terminal**
 
@@ -196,15 +205,21 @@ Fill in the blanks and mark off these as you do them by adding an
   * The first line of a Python file should be ______.
   * When I forgot a Bash command I should ______.
 
+--------
+
 31. - [ ] **Show: Basic Math**
 
   * Programming came from  ______.
   * `x = 2y + 3` is an example of ______.
   * When programming on most game grids `x` is ______ and `y` is ______.
 
+--------
+
 32. - [ ] **Attain: Forest in CodeCombat.com**
 
   * *Upload screenshots of each level to this repo.*
+
+--------
 
 33. - [ ] **Configure: GitHub Keys**
 
