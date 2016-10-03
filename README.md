@@ -116,14 +116,10 @@ Fill in the blanks and mark off these as you do them by adding an
 
   * I have ______ the markdown tutorial.
 
---------
-
 16. - [ ] **Create: Individual Development Plan**
 
   * I have completed by ______.
   * The most important quality of a good goal to me is ______.
-
---------
 
 17. - [ ] **Show: Screenshot**
 
@@ -159,8 +155,6 @@ Fill in the blanks and mark off these as you do them by adding an
 
   * I uploaded the file named ______ to this repo using drag-n-drop.
 
---------
-
 24. - [ ] **Explain: What is just-in-time learning?**
 
   * Just in time learning is ______.
@@ -184,8 +178,6 @@ Fill in the blanks and mark off these as you do them by adding an
   * Apple became preferred by developers when ______.
   * Linux has the same feel and commands as ______.
 
---------
-
 28. - [ ] **Show: Login with Mac Terminal**
 
   * I can get the files to solarize my terminal from ______.
@@ -205,21 +197,15 @@ Fill in the blanks and mark off these as you do them by adding an
   * The first line of a Python file should be ______.
   * When I forgot a Bash command I should ______.
 
---------
-
 31. - [ ] **Show: Basic Math**
 
   * Programming came from  ______.
   * `x = 2y + 3` is an example of ______.
   * When programming on most game grids `x` is ______ and `y` is ______.
 
---------
-
 32. - [ ] **Attain: Forest in CodeCombat.com**
 
   * *Upload screenshots of each level to this repo.*
-
---------
 
 33. - [ ] **Configure: GitHub Keys**
 
