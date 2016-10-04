@@ -40,8 +40,10 @@ Fill in the blanks and mark off these as you do them by adding an
 5. - [ ] **Create: GitHub.com Account**
 
   * My GitHub account is ______.
-  * True or false, I can change my GitHub name anytime? ______.
-  * My account name does not have ______ in it.
+  * True or false, capitals are ok. ______
+  * True or false, numbers are ok. ______
+  * True or false, I *can* change my username. ______
+  * True or false, I *should not* change my username. ______
 
 6. - [ ] **Join: Slack Chat Room**
 
