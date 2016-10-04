@@ -14,8 +14,6 @@
 >  or the starter workbook (click title) please open issues on them
 >  suggesting corrections.
 
-## Prep Skills
-
 Fill in the blanks and mark off these as you do them by adding an
 `x` between the brackets:
 
