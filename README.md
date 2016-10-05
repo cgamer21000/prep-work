@@ -100,6 +100,7 @@ Fill in the blanks and mark off these as you do them by adding an
   * The most important factor in learning to code is ______.
   * I can only make up ______ missed classes in a row.
   * The minimum number of students to not cancel a course is ______.
+  * If paid, whose responsibility is it for your PayPal account ______.
 
 13. - [ ] **Explain: Communications**
 
