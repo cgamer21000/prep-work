@@ -1,43 +1,37 @@
 # [Preparing for Fundamentals (Work)](http://prep.skilstak.io)
 
->  This *work*book goes with a *text*book. You should have
->  asked your instructor for an invite or found it in your course
->  chat room. When you accept the invite GitHub Classrooms will
->  create your personal, private workbook by copying the workbook
->  starter repo.
-> 
->  For questions about anything in the course including your projects
->  and assignments you can create an issue on your workbook and your
->  instructor will see it. You can also ask in the course chat.
-> 
->  If you catch spelling issues or other errors with either this textbook
->  or the starter workbook (click title) please open issues on them
->  suggesting corrections.
+> 💬 [This *work*book goes with a *text*book](http://prep.skilstak.io).
+> Students their personal, private workbook after asking their
+> instructor for an invite or clicking on one in their course chat
+> room. We invite teachers and parents to read >  🍎[*Welcome
+> Teachers!*]()
+
+[*Welcom Teachers!*]: https://github.com/skilstak/prep/blob/gh-pages/teachers/README.md
 
 Fill in the blanks and mark off these as you do them by adding an
 `x` between the brackets:
 
-1. - [ ] **Agree: Read, A Lot**
+- [ ] **Agree: Read, A Lot**
 
   * The most important skill of a developer is ______.
   * I agree to ______.
 
-2. - [ ] **Show: How to Use Chrome Incognito**
+- [ ] **Show: How to Use Chrome Incognito**
 
   * You should always use Incognito because ______.
 
-3. - [ ] **Confirm: Mailing List Subscription**
+- [ ] **Confirm: Mailing List Subscription**
 
   * Emails from the mailing list come to the ______ folder.
   * My emergency contact ______ is subscribed to the mailing list.
 
-4. - [ ] **Create: Gmail.com Address**
+- [ ] **Create: Gmail.com Address**
 
   * My Gmail address is ______.
   * My most important password of all is my ______ password.
   * In case I forget I made sure to set my ______ option(s).
 
-5. - [ ] **Create: GitHub.com Account**
+- [ ] **Create: GitHub.com Account**
 
   * My GitHub account is ______.
   * True or false, capitals are ok. ______
@@ -45,12 +39,12 @@ Fill in the blanks and mark off these as you do them by adding an
   * True or false, I *can* change my username. ______
   * True or false, I *should not* change my username. ______
 
-6. - [ ] **Join: Slack Chat Room**
+- [ ] **Join: Slack Chat Room**
 
   * My Slack chat room web address is ______.
   * I will check ______ at least ______.
 
-7. - [ ] **Explain: Core Offerings**
+- [ ] **Explain: Core Offerings**
 
   * Everyone starts SkilStak™ in ______.
   * To get into the *Project* course I have to ______.
@@ -63,33 +57,33 @@ Fill in the blanks and mark off these as you do them by adding an
   * The difference between Pro and Project is that ______.
   * Proficiency is learned in ______.
 
-8. - [ ] **Pick: Technology Path**
+- [ ] **Pick: Technology Path**
 
   * ______ leads to *Engineering* and *Linux* focus categories.
   * ______ leads to *Game* and *Apps* focus categories.
   * ______ lead to *Data* and *Languages* focus categories.
   * I declare my technology path to be ______.
 
-9. - [ ] **Create: CodeCombat.com Account(s)**
+- [ ] **Create: CodeCombat.com Account(s)**
 
   * The email for Python is ______.
   * The email for JavaScript is ______.
   * I need to get into the ______ to move out of Prep.
 
-10. - [ ] **Remember: Passwords!**
+- [ ] **Remember: Passwords!**
 
   * If I keep trying my GitHub password I risk ______.
   * The most important password to remember is ______.
   * My strategy for remember my password is ______.
 
-11. - [ ] **Know: Your Web Sites**
+- [ ] **Know: Your Web Sites**
 
   * My location name is ______.
   * The web site for my *location* is ______.
   * The web site for SkilStak™ is ______.
   * I can lookup shortcuts from ______.
 
-12. - [ ] **Explain: Policies**
+- [ ] **Explain: Policies**
 
   * Officially there are no ______.
   * My Mom and Dad can watch a class if ______.
@@ -102,7 +96,7 @@ Fill in the blanks and mark off these as you do them by adding an
   * The minimum number of students to not cancel a course is ______.
   * If paid, whose responsibility is it for your PayPal account ______.
 
-13. - [ ] **Explain: Communications**
+- [ ] **Explain: Communications**
 
   * The phone number for my location is ______.
   * The email for my location is ______.
@@ -117,59 +111,59 @@ Fill in the blanks and mark off these as you do them by adding an
   * The best place to find videos and photos of my location is ______.
   * SkilStak newsletters are sent every ______.
   
-14. - [ ] **Sign: Student Pledge**
+- [ ] **Sign: Student Pledge**
 
   * I solemnly swear to ______.
   * If I break the pledge I can get a ______.
 
-15. - [ ] **Complete: Markdown Tutorial**
+- [ ] **Complete: Markdown Tutorial**
 
   * I have ______ the markdown tutorial.
 
-16. - [ ] **Create: Individual Development Plan**
+- [ ] **Create: Individual Development Plan**
 
   * I have completed my ______.
   * One important quality of a good goal is ______.
 
-17. - [ ] **Show: Screenshot**
+- [ ] **Show: Screenshot**
 
   * To make a screenshot of a region on Mac press ______.
   * To make a screenshot on Windows press ______.
   * To make animated GIFs on Mac use ______.
 
-18. - [ ] **Attain: 24 WPM on TypingTest.com**
+- [ ] **Attain: 24 WPM on TypingTest.com**
 
   * The second most important skill of a developer is ______.
   * I type ______ words per minute.
 
 
-19. - [ ] **Edit: File with GitHub**
+- [ ] **Edit: File with GitHub**
 
   * I created the ______ file into this work repo with the editor
 
-20. - [ ] **Create: First Github Issue**
+- [ ] **Create: First Github Issue**
 
   * The name of my issue on this repo is ______.
   * Issues are a great way to ______.
 
-21. - [ ] **Create: Custom Issue Label**
+- [ ] **Create: Custom Issue Label**
 
   * Custom labels are good because ______.
   * I created custom labels called ______, ______, ______.
 
-22. - [ ] **Create: First Web Site**
+- [ ] **Create: First Web Site**
 
   * The URL to my first web site is ______.
 
-23. - [ ] **Show: Drag a File into a Repo**
+- [ ] **Show: Drag a File into a Repo**
 
   * I uploaded the file named ______ to this repo using drag-n-drop.
 
-24. - [ ] **Explain: What is just-in-time learning?**
+- [ ] **Explain: What is just-in-time learning?**
 
   * Just in time learning is ______.
 
-25. - [ ] **Explain: What is coding?**
+- [ ] **Explain: What is coding?**
 
   * Coding is ______.
   * Programming is ______.
@@ -177,47 +171,47 @@ Fill in the blanks and mark off these as you do them by adding an
   * True or False: HTML is a programming language. ______
   * One language with code that is not programming is ______.
 
-26. - [ ] **Explain: What is organic learning?**
+- [ ] **Explain: What is organic learning?**
 
   * Organic means ______.
   * Learning should be tailored to fit ______.
 
-27. - [ ] **Explain: Which computer should I get?**
+- [ ] **Explain: Which computer should I get?**
 
   * Linux/Mac have had ______ for more than decade. Microsoft has not.
   * Apple became preferred by developers when ______.
   * Linux has the same feel and commands as ______.
 
-28. - [ ] **Show: Login with Mac Terminal**
+- [ ] **Show: Login with Mac Terminal**
 
   * I can get the files to solarize my terminal from ______.
   * I can increase the font size of my terminal with ______.
   * I can full screen my terminal with ______.
 
-29. - [ ] **Show: Login with CodeAnywhere.com**
+- [ ] **Show: Login with CodeAnywhere.com**
 
   * CodeAnywhere is ______ blocked if `ssh` is blocked.
   * True or false: CodeAnywhere is great for professionals.  ______
   * CodeAnywhere is ______ than terminal.
 
-30. - [ ] **Show: Bash and VIM Essentials**
+- [ ] **Show: Bash and VIM Essentials**
 
   * To make a new file without opening it use ______.  
   * To make a file runnable use ______.  
   * The first line of a Python file should be ______.
   * When I forgot a Bash command I should ______.
 
-31. - [ ] **Show: Basic Math**
+- [ ] **Show: Basic Math**
 
   * Programming came from  ______.
   * `x = 2y + 3` is an example of ______.
   * When programming on most game grids `x` is ______ and `y` is ______.
 
-32. - [ ] **Attain: Forest in CodeCombat.com**
+- [ ] **Attain: Forest in CodeCombat.com**
 
   * *Upload screenshots of each level to this repo.*
 
-33. - [ ] **Configure: GitHub Keys**
+- [ ] **Configure: GitHub Keys**
 
   * Keys are like ______.
   * The command to create new key pair is ______.
