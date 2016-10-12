@@ -1,13 +1,13 @@
-# [📖 Preparing for Fundamentals (Work)](http://prep.skilstak.io)
+# [📖 Preparing for Fundamentals (Work)][📖]
 [📝]: https://github.com/skilstak/prep-work/edit/gh-pages/README.md
+[📖]: http://prep.skilstak.io
+[🍎]: https://github.com/skilstak/prep/blob/gh-pages/teachers/README.md
 
 > 💬 [This *work*book goes with a *text*book](http://prep.skilstak.io).
 > Students their personal, private workbook after asking their
 > instructor for an invite or clicking on one in their course chat
-> room. We invite teachers and parents to read >  🍎[*Welcome
-> Teachers!*]()
-
-[*Welcom Teachers!*]: https://github.com/skilstak/prep/blob/gh-pages/teachers/README.md
+> room. We invite teachers and parents to read 
+> 🍎[*Welcome Teachers!*][🍎]
 
 ## Main Information
 
@@ -37,8 +37,8 @@ a strike.*
 
 | Completed | Part | 
 | :------: | :------ |
-| 2016-MM-DD | Overview |
-| 2016-MM-DD | Be Willing and Able to Read, A Lot |
+| 2016-MM-DD | [📖 Overview][📖] |
+| 2016-MM-DD | [📖 Be Willing and Able to Read, A Lot][📖] |
 | 2016-MM-DD | Use Chrome Incognito |
 | 2016-MM-DD | Join Mailing list |
 | 2016-MM-DD | Create Google Gmail Account |
