@@ -9,7 +9,7 @@
 > room. We invite teachers and parents to read 
 > 🍎[*Welcome Teachers!*][🍎]
 
-## Main Information
+## Your Information
 
 |         Info          |      Your Value      |
 | --------------------- | -------------------- |
@@ -28,6 +28,8 @@
 | Current Typing WPM    |                      |
 | Personal Web Site     |                      |
 
+## Reading 
+
 As you complete reading each part of Prep from the textbook, on
 your own or in class, fill in the specific date on which you completed
 your read (including watching any videos). Replace the `MM` with
@@ -37,44 +39,44 @@ a strike.*
 
 | Completed | Part | 
 | :------: | :------ |
-| 2016-MM-DD | [📖 **Overview**][📖] |
-| 2016-MM-DD | [📖 **Be Willing and Able to Read, A Lot**][📖] |
-| 2016-MM-DD | Use Chrome Incognito |
-| 2016-MM-DD | Join Mailing list |
-| 2016-MM-DD | Create Google Gmail Account |
-| 2016-MM-DD | Join the Slack Chat Room |
-| 2016-MM-DD | Understand Core Offerings |
-| 2016-MM-DD | Pick a Path |
-| 2016-MM-DD | Create CodeCombat.com Account(s) |
-| 2016-MM-DD | Remember Passwords! |
-| 2016-MM-DD | Know Your Web Sites |
-| 2016-MM-DD | Agree to Policies |
-| 2016-MM-DD | Understand Communications |
-| 2016-MM-DD | Sign Student Pledge |
-| 2016-MM-DD | Attain 24 Words Per Minute Typing |
-| 2016-MM-DD | Toggle Applications with One Hand |
-| 2016-MM-DD | Close a Window |
-| 2016-MM-DD | Close an Application |
-| 2016-MM-DD | Take Some Screenshots |
-| 2016-MM-DD | Complete the Markdown Tutorial |
-| 2016-MM-DD | Edit a File with GitHub |
-| 2016-MM-DD | Create First GitHub Issue |
-| 2016-MM-DD | Create Custom Issue Labels |
-| 2016-MM-DD | Know Your Web Sites |
-| 2016-MM-DD | Dragging a File Into a GitHub Repo |
-| 2016-MM-DD | Learn to Learn, Just in Time |
-| 2016-MM-DD | What is Coding |
-| 2016-MM-DD | Organic Learning |
-| 2016-MM-DD | Choosing a Computer |
-| 2016-MM-DD | Login with Mac Terminal |
-| 2016-MM-DD | Login with CodeAnywhere.com |
-| 2016-MM-DD | Bash Command Line Essentials |
-| 2016-MM-DD | Understand Basic Algebra Math |
-| 2016-MM-DD | Attain the Forest in CodeCombat.com |
-| 2016-MM-DD | Configure GitHub Keys |
-| 2016-MM-DD | Create Your Individual Development Plan (IDP) |
-| 2016-MM-DD | Get Verified |
-| 2016-MM-DD | Prep Projects |
+| [📝][]2016-MM-DD | [📖 **Overview**][📖] |
+| [📝][]2016-MM-DD | [📖 **Be Willing and Able to Read, A Lot**][📖] |
+| [📝][]2016-MM-DD | [📖 **Use Chrome Incognito**][📖] |
+| [📝][]2016-MM-DD | [📖 **Join Mailing list**][📖] |
+| [📝][]2016-MM-DD | [📖 **Create Google Gmail Account**][📖] |
+| [📝][]2016-MM-DD | [📖 **Join the Slack Chat Room**][📖] |
+| [📝][]2016-MM-DD | [📖 **Understand Core Offerings**][📖] |
+| [📝][]2016-MM-DD | [📖 **Pick a Path**][📖] |
+| [📝][]2016-MM-DD | [📖 **Create CodeCombat.com Account(s)**][📖] |
+| [📝][]2016-MM-DD | [📖 **Remember Passwords!**][📖] |
+| [📝][]2016-MM-DD | [📖 **Know Your Web Sites**][📖] |
+| [📝][]2016-MM-DD | [📖 **Agree to Policies**][📖] |
+| [📝][]2016-MM-DD | [📖 **Understand Communications**][📖] |
+| [📝][]2016-MM-DD | [📖 **Sign Student Pledge**][📖] |
+| [📝][]2016-MM-DD | [📖 **Attain 24 Words Per Minute Typing**][📖] |
+| [📝][]2016-MM-DD | [📖 **Toggle Applications with One Hand**][📖] |
+| [📝][]2016-MM-DD | [📖 **Close a Window**][📖] |
+| [📝][]2016-MM-DD | [📖 **Close an Application**][📖] |
+| [📝][]2016-MM-DD | [📖 **Take Some Screenshots**][📖] |
+| [📝][]2016-MM-DD | [📖 **Complete the Markdown Tutorial**][📖] |
+| [📝][]2016-MM-DD | [📖 **Edit a File with GitHub**][📖] |
+| [📝][]2016-MM-DD | [📖 **Create First GitHub Issue**][📖] |
+| [📝][]2016-MM-DD | [📖 **Create Custom Issue Labels**][📖] |
+| [📝][]2016-MM-DD | [📖 **Know Your Web Sites**][📖] |
+| [📝][]2016-MM-DD | [📖 **Dragging a File Into a GitHub Repo**][📖] |
+| [📝][]2016-MM-DD | [📖 **Learn to Learn, Just in Time**][📖] |
+| [📝][]2016-MM-DD | [📖 **What is Coding**][📖] |
+| [📝][]2016-MM-DD | [📖 **Organic Learning**][📖] |
+| [📝][]2016-MM-DD | [📖 **Choosing a Computer**][📖] |
+| [📝][]2016-MM-DD | [📖 **Login with Mac Terminal**][📖] |
+| [📝][]2016-MM-DD | [📖 **Login with CodeAnywhere.com**][📖] |
+| [📝][]2016-MM-DD | [📖 **Bash Command Line Essentials**][📖] |
+| [📝][]2016-MM-DD | [📖 **Understand Basic Algebra Math**][📖] |
+| [📝][]2016-MM-DD | [📖 **Attain the Forest in CodeCombat.com**][📖] |
+| [📝][]2016-MM-DD | [📖 **Configure GitHub Keys**][📖] |
+| [📝][]2016-MM-DD | [📖 **Create Your Individual Development Plan**][📖] |
+| [📝][]2016-MM-DD | [📖 **Get Verified**][📖] |
+| [📝][]2016-MM-DD | [📖 **Prep Projects**][📖] |
 
 ## Review Questions
 
