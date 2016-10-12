@@ -49,22 +49,22 @@
 
 ## Your Information
 
-|         Info          |      Your Value      |
-| --------------------- | -------------------- |
-| Main Web Site         |                      |
-| Location              |                      |
-| Location Phone        |                      |
-| Location Email        |                      |
-| Location Web Site     |                      |
-| Gmail Address         |                      |
-| Contact Email         |                      |
-| GitHub Account        |                      |
-| Slack Chat Link       | [](http://)          |
-| Technology Path       |                      |
-| CodeCombat Python     | ______+py@gmail.com  |
-| CodeCombat JavaScript | ______+js@gmail.com  |
-| Current Typing WPM    |                      |
-| Personal Web Site     |                      |
+|         Info          |        Your Value       |
+| --------------------- | ----------------------- |
+| Main Web Site         |  📝                      |
+| Location              |  📝                      |
+| Location Phone        |  📝                      |
+| Location Email        |  📝                      |
+| Location Web Site     |  📝                      |
+| Gmail Address         |  📝                      |
+| Contact Email         |  📝                      |
+| GitHub Account        |  📝                      |
+| Slack Chat Link       |  📝 [](http://)          |
+| Technology Path       |  📝                      |
+| CodeCombat Python     |  📝 ______+py@gmail.com  |
+| CodeCombat JavaScript |  📝 ______+js@gmail.com  |
+| Current Typing WPM    |  📝                      |
+| Personal Web Site     |  📝                      |
 
 ## Reading 
 
