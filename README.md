@@ -51,6 +51,7 @@
 
 |         Info          |        Your Value       |
 | --------------------- | ----------------------- |
+| Full Name             |  📝                      |
 | Main Web Site         |  📝                      |
 | Location              |  📝                      |
 | Location Phone        |  📝                      |
@@ -65,6 +66,7 @@
 | CodeCombat JavaScript |  📝 ______+js@gmail.com  |
 | Current Typing WPM    |  📝                      |
 | Personal Web Site     |  📝                      |
+| SkilStak.sh User      |  📝                      |
 
 ## Reading 
 
