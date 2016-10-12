@@ -442,7 +442,7 @@ a friend?**
 
   📝 
 
-**The first line of a Python script should contain what? (Write it out.)
+**The first line of a Python script should contain what? (Write it out.)**
 
   📝 
 
