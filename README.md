@@ -37,8 +37,8 @@ a strike.*
 
 | Completed | Part | 
 | :------: | :------ |
-| 2016-MM-DD | [📖 *Overview*][📖] |
-| 2016-MM-DD | [📖 *Be Willing and Able to Read, A Lot*][📖] |
+| 2016-MM-DD | [📖 **Overview**][📖] |
+| 2016-MM-DD | [📖 **Be Willing and Able to Read, A Lot**][📖] |
 | 2016-MM-DD | Use Chrome Incognito |
 | 2016-MM-DD | Join Mailing list |
 | 2016-MM-DD | Create Google Gmail Account |
