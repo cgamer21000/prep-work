@@ -10,8 +10,8 @@
 
 ## Main Information
 
-| – | – |
-| - | - |
+| Info | Your Value |
+| -- | -- |
 | Main Web Site | ______ |
 | Location | ______ |
 | Location Phone | ______ |
