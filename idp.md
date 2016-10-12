@@ -1,4 +1,4 @@
-# [My Individual Development Plan (IDP)](http://idp.skilstak.io)
+# My Individual Development Plan (IDP)
 
 1. **Goal**: 
 2. **Goal**: 

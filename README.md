@@ -1,4 +1,4 @@
-# [Preparing for Fundamentals (Work)](http://prep.skilstak.io)
+# [📖 Preparing for Fundamentals (Work)](http://prep.skilstak.io)
 
 > 💬 [This *work*book goes with a *text*book](http://prep.skilstak.io).
 > Students their personal, private workbook after asking their
@@ -8,214 +8,435 @@
 
 [*Welcom Teachers!*]: https://github.com/skilstak/prep/blob/gh-pages/teachers/README.md
 
-Fill in the blanks and mark off these as you do them by adding an
-`x` between the brackets:
+## Main Information
+
+| | |
+| - | - |
+| Main Web Site | ______ |
+| Location | ______ |
+| Location Phone | ______ |
+| Location Email | ______ |
+| Location Web Site| ______ |
+| Gmail Address | ______ |
+| Contact Email | ______ |
+| GitHub Account | ______ |
+| Slack Chat Link | [______](http://) |
+| Technology Path | ______ |
+| CodeCombat Python | ______+py@gmail.com |
+| CodeCombat JavaScript | ______+js@gmail.com |
+| Current Typing WPM | ______ |
+| My Web Site | ______ |
+
+As you complete reading each part of Prep from the textbook, on
+your own or in class, fill in the specific date on which you completed
+your read (including watching any videos). Replace the `MM` with
+two-digit month, `DD` with the two-digit day of the month. *Do not
+enter a date unless you have actually read it. Those who do will get
+a strike.*
 
-- [ ] **Agree: Read, A Lot**
+| Completed | Part | 
+| :------: | :------ |
+| 2016-MM-DD | Overview |
+| 2016-MM-DD | Be Willing and Able to Read, A Lot |
+| 2016-MM-DD | Use Chrome Incognito |
+| 2016-MM-DD | Join Mailing list |
+| 2016-MM-DD | Create Google Gmail Account |
+| 2016-MM-DD | Join the Slack Chat Room |
+| 2016-MM-DD | Understand Core Offerings |
+| 2016-MM-DD | Pick a Path |
+| 2016-MM-DD | Create CodeCombat.com Account(s) |
+| 2016-MM-DD | Remember Passwords! |
+| 2016-MM-DD | Know Your Web Sites |
+| 2016-MM-DD | Agree to Policies |
+| 2016-MM-DD | Understand Communications |
+| 2016-MM-DD | Sign Student Pledge |
+| 2016-MM-DD | Attain 24 Words Per Minute Typing |
+| 2016-MM-DD | Toggle Applications with One Hand |
+| 2016-MM-DD | Close a Window |
+| 2016-MM-DD | Close an Application |
+| 2016-MM-DD | Take Some Screenshots |
+| 2016-MM-DD | Complete the Markdown Tutorial |
+| 2016-MM-DD | Edit a File with GitHub |
+| 2016-MM-DD | Create First GitHub Issue |
+| 2016-MM-DD | Create Custom Issue Labels |
+| 2016-MM-DD | Know Your Web Sites |
+| 2016-MM-DD | Dragging a File Into a GitHub Repo |
+| 2016-MM-DD | Learn to Learn, Just in Time |
+| 2016-MM-DD | What is Coding |
+| 2016-MM-DD | Organic Learning |
+| 2016-MM-DD | Choosing a Computer |
+| 2016-MM-DD | Login with Mac Terminal |
+| 2016-MM-DD | Login with CodeAnywhere.com |
+| 2016-MM-DD | Bash Command Line Essentials |
+| 2016-MM-DD | Understand Basic Algebra Math |
+| 2016-MM-DD | Attain the Forest in CodeCombat.com |
+| 2016-MM-DD | Configure GitHub Keys |
+| 2016-MM-DD | Create Your Individual Development Plan (IDP) |
+| 2016-MM-DD | Get Verified |
+| 2016-MM-DD | Prep Projects |
 
-  * The most important skill of a developer is ______.
-  * I agree to ______.
+## Review Questions
 
-- [ ] **Show: How to Use Chrome Incognito**
+**What is the most important skill of any developer?**
 
-  * You should always use Incognito because ______.
+  📝
 
-- [ ] **Confirm: Mailing List Subscription**
+**Why should you always use Incognito?**
 
-  * Emails from the mailing list come to the ______ folder.
-  * My emergency contact ______ is subscribed to the mailing list.
+  📝
 
-- [ ] **Create: Gmail.com Address**
+**Emails from the mailing list come to the ______ folder.**
 
-  * My Gmail address is ______.
-  * My most important password of all is my ______ password.
-  * In case I forget I made sure to set my ______ option(s).
+  📝
 
-- [ ] **Create: GitHub.com Account**
+**What is the most important password of all to remember?**
 
-  * My GitHub account is ______.
-  * True or false, capitals are ok. ______
-  * True or false, numbers are ok. ______
-  * True or false, I *can* change my username. ______
-  * True or false, I *should not* change my username. ______
+  📝
 
-- [ ] **Join: Slack Chat Room**
+**What options should you always set on your Gmail account?**
 
-  * My Slack chat room web address is ______.
-  * I will check ______ at least ______.
+  📝
 
-- [ ] **Explain: Core Offerings**
+**Why are capital letters in my GitHub name problematic?**
 
-  * Everyone starts SkilStak™ in ______.
-  * To get into the *Project* course I have to ______.
-  * To get into *Pro* I have to ______.
-  * When can you socialize? ______ 
-  * True or false, Yoga is a technical skill: ______
-  * YouTube and blogging are taught in ______.
-  * In which course could I learn Swift programming? ______.
-  * The mission of ______ is exploration and specialization.
-  * The difference between Pro and Project is that ______.
-  * Proficiency is learned in ______.
+  📝
 
-- [ ] **Pick: Technology Path**
+**True of False: You *could* change your GitHub user name if needed?**
 
-  * ______ leads to *Engineering* and *Linux* focus categories.
-  * ______ leads to *Game* and *Apps* focus categories.
-  * ______ lead to *Data* and *Languages* focus categories.
-  * I declare my technology path to be ______.
+  📝
 
-- [ ] **Create: CodeCombat.com Account(s)**
+**What happens when you change my GitHub user name that might be bad?**
 
-  * The email for Python is ______.
-  * The email for JavaScript is ______.
-  * I need to get into the ______ to move out of Prep.
+  📝
 
-- [ ] **Remember: Passwords!**
+**How often should each student check the chat room?**
 
-  * If I keep trying my GitHub password I risk ______.
-  * The most important password to remember is ______.
-  * My strategy for remember my password is ______.
+  📝
 
-- [ ] **Know: Your Web Sites**
+**What is the first real course everyone takes at SkilStak™?**
 
-  * My location name is ______.
-  * The web site for my *location* is ______.
-  * The web site for SkilStak™ is ______.
-  * I can lookup shortcuts from ______.
+  📝
 
-- [ ] **Explain: Policies**
+**How do you get into the *Project* course?**
 
-  * Officially there are no ______.
-  * My Mom and Dad can watch a class if ______.
-  * If I refer a friend I get ______% off next semester’s cost.
-  * I can get a strike for ______, ______, ______, or more.
-  * True of false, SkilStak™ can stop me from coming to any SkilStak™
-    for any reason they deem necessary without a refund.  ______
-  * The most important factor in learning to code is ______.
-  * I can only make up ______ missed classes in a row.
-  * The minimum number of students to not cancel a course is ______.
-  * If paid, whose responsibility is it for your PayPal account ______.
+  📝
 
-- [ ] **Explain: Communications**
+**How do you get into *Pro*?**
 
-  * The phone number for my location is ______.
-  * The email for my location is ______.
-  * The street address for my location is ______.
-  * The main SkilStak™ phone is ______.
-  * The phone of my emergency contact is ______.
-  * The email of my emergency contact is ______.
-  * If I have an emergency and need to contact you I should ______.
-  * If I want to schedule a makeup I should ______.
-  * If I have a question about codecombat I should ______.
-  * True or false, when I can’t come my parents should email?  ______.
-  * The best place to find videos and photos of my location is ______.
-  * SkilStak newsletters are sent every ______.
-  
-- [ ] **Sign: Student Pledge**
+  📝
 
-  * I solemnly swear to ______.
-  * If I break the pledge I can get a ______.
+**What part of every class is set aside for socializing?**
 
-- [ ] **Complete: Markdown Tutorial**
+  📝
 
-  * I have ______ the markdown tutorial.
+**How is yoga a technical skill?**
 
-- [ ] **Create: Individual Development Plan**
+  📝
 
-  * I have completed my ______.
-  * One important quality of a good goal is ______.
+**Which course teaches YouTube and blogging?**
 
-- [ ] **Show: Screenshot**
+  📝
 
-  * To make a screenshot of a region on Mac press ______.
-  * To make a screenshot on Windows press ______.
-  * To make animated GIFs on Mac use ______.
+**Where can I learn Swift programming at SkilStak™?**
 
-- [ ] **Attain: 24 WPM on TypingTest.com**
+  📝
 
-  * The second most important skill of a developer is ______.
-  * I type ______ words per minute.
+**Which course’s main mission is ***exploration and specialization***?**
 
+  📝
 
-- [ ] **Edit: File with GitHub**
+**What is the main difference between *Pro* and *Project*?**
 
-  * I created the ______ file into this work repo with the editor
+  📝
 
-- [ ] **Create: First Github Issue**
+**What is “proficiency” and where do you learn it at SkilStak™?**
 
-  * The name of my issue on this repo is ______.
-  * Issues are a great way to ______.
+  📝
 
-- [ ] **Create: Custom Issue Label**
+**Which path leads to *Engineering* and *Linux* focus categories?**
 
-  * Custom labels are good because ______.
-  * I created custom labels called ______, ______, ______.
+  📝
 
-- [ ] **Create: First Web Site**
+**Which path leads to *Game* and *Apps* focus categories?**
 
-  * The URL to my first web site is ______.
+  📝
 
-- [ ] **Show: Drag a File into a Repo**
+**Which path leads to *Data* and *Languages* focus categories.**
 
-  * I uploaded the file named ______ to this repo using drag-n-drop.
+  📝
 
-- [ ] **Explain: What is just-in-time learning?**
+**How far do you need to get in CodeCombat to move out of *Prep*?**
 
-  * Just in time learning is ______.
+  📝
 
-- [ ] **Explain: What is coding?**
+**What could happen if you keep trying your GitHub password?**
 
-  * Coding is ______.
-  * Programming is ______.
-  * Computer science is ______.
-  * True or False: HTML is a programming language. ______
-  * One language with code that is not programming is ______.
+  📝
 
-- [ ] **Explain: What is organic learning?**
+**Describe your personal strategy for remembering your passwords:**
 
-  * Organic means ______.
-  * Learning should be tailored to fit ______.
+  📝
 
-- [ ] **Explain: Which computer should I get?**
+**What is the shortcut web address to the *Prep* textbook repo?**
 
-  * Linux/Mac have had ______ for more than decade. Microsoft has not.
-  * Apple became preferred by developers when ______.
-  * Linux has the same feel and commands as ______.
+  📝
 
-- [ ] **Show: Login with Mac Terminal**
+**After you have paid and registered officially there are no what?**
 
-  * I can get the files to solarize my terminal from ______.
-  * I can increase the font size of my terminal with ______.
-  * I can full screen my terminal with ______.
+  📝
 
-- [ ] **Show: Login with CodeAnywhere.com**
+**Describe how your Mom and/or Data can arrange to observe a class?**
 
-  * CodeAnywhere is ______ blocked if `ssh` is blocked.
-  * True or false: CodeAnywhere is great for professionals.  ______
-  * CodeAnywhere is ______ than terminal.
+  📝
 
-- [ ] **Show: Bash and VIM Essentials**
+**What percentage off of next semester’s cost can you get for referring
+a friend?**
 
-  * To make a new file without opening it use ______.  
-  * To make a file runnable use ______.  
-  * The first line of a Python file should be ______.
-  * When I forgot a Bash command I should ______.
+  📝
 
-- [ ] **Show: Basic Math**
+**Name three things that can get you a strike?**
 
-  * Programming came from  ______.
-  * `x = 2y + 3` is an example of ______.
-  * When programming on most game grids `x` is ______ and `y` is ______.
+  📝
 
-- [ ] **Attain: Forest in CodeCombat.com**
+**What happens after you get three strikes?**
 
-  * *Upload screenshots of each level to this repo.*
+  📝
 
-- [ ] **Configure: GitHub Keys**
+**Why do we even need strikes at SkilStak™?**
 
-  * Keys are like ______.
-  * The command to create new key pair is ______.
-  * I can test connecting to GitHub with ______.
+  📝
+
+**The *location manager* compares to which person in most public schools?**
+
+  📝
+
+**What if an instructor or location manager asks me to leave?**
+
+  📝
+
+**The most important factor when learning code is not smarts. What is it?**
+
+  📝
+
+**What is the maximum number of missed classes I can make up in a row?**
+
+  📝
+
+**To hold a course there muse be a least how many students?**
+
+  📝
+
+**If you are paid staff, how do you get paid?**
+
+  📝
+
+**What if you are under 13 and being paid?**
+
+  📝
+
+**How much an you be paid?**
+
+  📝
+
+**Where can I find the street address of my location?**
+
+  📝
+
+**How should you or your parents contact your location in an emergency?**
+
+  📝
+
+**If you want to schedule a makeup you should do what?**
+
+  📝
+
+**How should you ask questions about CodeCombat from home?**
+
+  📝
+
+**Where is the best place to see videos and photos taken of your location?**
+
+  📝
+
+**How often SkilStak™ newsletters usually emailed out?**
+ 
+  📝
+
+**Where should I look for newsletters if I cannot find them?**
+
+  📝
+
+**What is the main student pledge?**
+
+  📝
+
+**What happens if you break the pledge?**
+
+  📝
+
+**True or False: markdown is a language?**
+
+  📝
+
+**Why is markdown important?**
+
+  📝
+
+**Who will help you complete your IDP?**
+
+  📝
+
+**Name one important quality of a good goal:**
+
+  📝
+
+**To make a screenshot of a region on a Mac what do you press?**
+
+  📝
+
+**To make a screenshot of a region on Windows what do you press?**
+
+  📝
+
+**One tool for making animated GIFs on a Mac is called what?**
+
+  📝
+
+**What is the second most important skill of a developer?**
+
+  📝
+
+**What is the name of the file you uploaded? (Create markdown link.)**
+
+  📝
+
+**What is the name of the issue you created on this repo?**
+
+  📝
+
+**Issues are good for many reasons, name one you find useful:**
+
+  📝
+
+**What are the names of three custom labels you have created?**
+
+  📝
+
+**What is the name of the file you uploaded using drag-n-drop?**
+
+  📝
+
+**What is just-in-time learning?**
+
+  📝
+
+**What is coding?**
+
+  📝
+
+**What is programming?**
+
+  📝
+
+**What is computer science?**
+
+  📝
+
+**True of False: HTML is a programming language?**
+
+  📝
+
+**What is organic learning?**
+
+  📝
+
+**Learning is best when it is customized for the specific ______.**
+
+  📝
+
+**What is the most direct way to issue commands to the computer?**
+
+  📝
+
+**What has Linux/Mac had for more than a decade the Microsoft has not?**
+
+  📝
+
+**What prompted Apple to become preferred by web developers?**
+
+  📝
+
+**While technically different Linux feels like what other OS?**
+
+  📝
+
+**Where do you go to get the files to solarize your terminal?**
+
+  📝
+
+**How can you increase the font size of your terminal?**
+
+  📝
+
+**How do you make your terminal full screen?**
+
+  📝
+
+**What makes CodeAnywhere good when connecting from home or school?**
+
+  📝
+
+**When should you *never* use CodeAnywhere?**
+
+  📝
+
+**Name one disadvantage of CodeAnywhere v.s. the terminal:**
+
+  📝
+
+**How do you make a new file without opening it?**
+
+  📝
+
+**How do you make a file runnable?**
+
+  📝
+
+**The first line of a Python script should contain what? (Write it out.)
+
+  📝
+
+**What simple command helps you remember other basic commands at SkilStak™?**
+
+  📝
+
+**Programming has many similarities to what other school subject?**
+
+  📝
+
+**`x = 2y + 3` is an example of what?**
+
+  📝
+
+**When programming on most game grids `x` is ______ and `y` is ______.**
+
+  📝
+
+**To prove you have made it to the *Forest* link to the uploaded screenshot:**
+
+  📝 []()
+
+**Secure Shell keys are like what?**
+
+  📝
+
+**What is the command to create a new ssh key pair using defaults?**
+
+  📝
+
+**What is the command I can use to test if keys work on GitHub?**
+
+  📝
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
