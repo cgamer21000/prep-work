@@ -10,7 +10,7 @@
 
 ## Main Information
 
-| | |
+| – | – |
 | - | - |
 | Main Web Site | ______ |
 | Location | ______ |
