@@ -41,27 +41,31 @@
 [pproj]: https://github.com/skilstak/prep/blob/gh-pages/pproj/README.md
 
 
-> 💬 [This *work*book goes with a *text*book](http://prep.skilstak.io).
-> Students their personal, private workbook after asking their
+> 💬 [This *work*book goes with a *text*book][📖]
+> Students get their personal, private workbook after asking their
 > instructor for an invite or clicking on one in their course chat
 > room. We invite teachers and parents to read 
 > 🍎[*Welcome Teachers!*][🍎]
 
 ## Your Information
 
+*You will will this out as you go through this course.*
+
 |         Info          |        Your Value       |
 | --------------------- | ----------------------- |
 | Full Name             |  📝                      |
-| Main Web Site         |  📝                      |
-| Location              |  📝                      |
+| SkilStak Web Site     |  📝                      |
+| Your School Location  |  📝                      |
 | Location Phone        |  📝                      |
 | Location Email        |  📝                      |
 | Location Web Site     |  📝                      |
 | Gmail Address         |  📝                      |
+| Contact Name          |  📝                      |
 | Contact Email         |  📝                      |
-| GitHub Account        |  📝                      |
+| Contact Phone         |  📝                      |
+| Your GitHub Account   |  📝                      |
 | Slack Chat Link       |  📝 [](http://)          |
-| Technology Path       |  📝                      |
+| Your Technology Path  |  📝                      |
 | CodeCombat Python     |  📝 ______+py@gmail.com  |
 | CodeCombat JavaScript |  📝 ______+js@gmail.com  |
 | Current Typing WPM    |  📝                      |
@@ -77,8 +81,8 @@ two-digit month, `DD` with the two-digit day of the month. *Do not
 enter a date unless you have actually read it. Those who do will get
 a strike.*
 
-| Completed | Part | 
-| :------: | :------ |
+|  Completed   | Part    | 
+| :----------: | :------ |
 | 📝 2016-MM-DD | [📖 **Overview**][overview] |
 | 📝 2016-MM-DD | [📖 **Be Willing and Able to Read, A Lot**][read] |
 | 📝 2016-MM-DD | [📖 **Use Chrome Incognito**][chrome] |
