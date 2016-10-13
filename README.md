@@ -51,26 +51,26 @@
 
 *You will will this out as you go through this course.*
 
-|         Info          |        Your Value       |
-| --------------------- | ----------------------- |
-| Full Name             |  📝                      |
-| SkilStak Web Site     |  📝                      |
-| Your School Location  |  📝                      |
-| Location Phone        |  📝                      |
-| Location Email        |  📝                      |
-| Location Web Site     |  📝                      |
-| Gmail Address         |  📝                      |
-| Contact Name          |  📝                      |
-| Contact Email         |  📝                      |
-| Contact Phone         |  📝                      |
-| Your GitHub Account   |  📝                      |
-| Slack Chat Link       |  📝 [](http://)          |
-| Your Technology Path  |  📝                      |
-| CodeCombat Python     |  📝 ______+py@gmail.com  |
-| CodeCombat JavaScript |  📝 ______+js@gmail.com  |
-| Current Typing WPM    |  📝                      |
-| Personal Web Site     |  📝                      |
-| SkilStak.sh User      |  📝                      |
+|         Info              |        Your Value       |
+| ---------------------     | ----------------------- |
+| Full Name                 |  📝                      |
+| SkilStak Web Site         |  📝                      |
+| Your School Location Name |  📝                      |
+| Location Phone            |  📝                      |
+| Location Email            |  📝                      |
+| Location Web Site         |  📝                      |
+| Your Gmail Address        |  📝                      |
+| Contact/Parent Full Name  |  📝                      |
+| Contact/Parent Email      |  📝                      |
+| Contact/Parent Phone      |  📝                      |
+| Your GitHub Account       |  📝                      |
+| Slack Chat Link           |  📝 [](http://)          |
+| Your Technology Path      |  📝                      |
+| CodeCombat Python         |  📝 ______+py@gmail.com  |
+| CodeCombat JavaScript     |  📝 ______+js@gmail.com  |
+| Current Typing WPM        |  📝                      |
+| Personal Web Site         |  📝                      |
+| SkilStak.sh User Name     |  📝                      |
 
 ## Reading 
 
